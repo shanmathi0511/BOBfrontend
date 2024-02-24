@@ -1,0 +1,19 @@
+.post {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  
+  .post img {
+    width: 100%;
+  }
+  
+  .post-details {
+    padding: 10px;
+  }
+  
+  .post-details h3 {
+    margin-top: 0;
+  }
+  

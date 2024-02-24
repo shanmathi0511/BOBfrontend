@@ -1,0 +1,24 @@
+/* Add styles to make it look like a social media app */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5; /* Example background color */
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Example styles for a header/navbar */
+  header {
+    background-color: #4267B2; /* Facebook blue color */
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Example styles for a footer */
+  footer {
+    background-color: #f0f2f5; /* Light background color */
+    color: #333;
+    padding: 10px;
+  }
+  
+  /* Add more styles as needed */
+  

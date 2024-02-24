@@ -1,0 +1,38 @@
+/* Global Styles */
+body {
+    font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #1da1f2; /* Twitter blue color */
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  /* Main Content Styles */
+  main {
+    padding-top: 20px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #f0f0f0; /* Light background color */
+    color: #333;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
